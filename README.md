@@ -1,155 +1,151 @@
-<center>JIAOE 白皮书</center>
-
-
-
 [toc]
+## 1. Preface 
 
-## 1. 引言
+​	In the real society, wealth is no longer fully measured by the quantity of money, while instead it depends more on the non-monetary assets one has which include but are not limited to houses, cars, stocks, artworks and other items with a certain market value.
 
-​	在现实社会中，财富早已不再完全通过货币数量来衡量，而更多的是看其持有的非货币资产，这些资产包括但不限于房子，车子，股票，艺术品等具有一定市场价值的物品。
+​	In the blockchain world, cryptocurrency is used to characterize monetary assets, and another value medium that manifests non-monetary assets is NFT, which will become an important part of the wealth in the decentralization network.
 
-在区块链世界中，加密货币用来表征货币属性资产，另外一种表征非货币资产的价值媒介就是 NFT，其将成为链上财富的重要组成部分。
+​	However, as NFT is booming, it’s also faced with many problems. Liquidity of high-value NFTs is poor and it’s difficult for ordinary people to be involved. Due to the anonymity of decentralization, NFT copyrights confirmation will see some hardship.
 
-​	然而，NFT 在蓬勃发展的同时，也面临了诸多问题。高价值 NFT 流动性差，普通人很难参与到其中；由于去中心化的匿名特性，NFT 版权确权困难。
+## 2. About JIAOE
 
-## 2. 关于
+​	JIAOE is committed to becoming the most professional, credible and efficient NFT decentralized trading platform across the globe to provide users with a full-link solution for asset transactions, asset trust, and asset circulation.
 
-​	JIAOE 致力于成为全球最专业，最可信的，最高效的 NFT 去中心化交易平台。为用户提供了资产交易，资产信任，资产流通全链接解决方案。
+​	JIAOE is divided into three major sections. The first is trading market, which is mainly used for NFT creation, division and INO. The second is a decentralized exchange, mainly providing secondary transactions. The third is ecological governance, mainly targeting asset on sale and copyright confirmation. 
 
-​	JIAOE 分为三大板块，第一板块是交易市场，主要用于 NFT 铸造，拆分和 INO；第二板块是去中心化交易所，主要提供二级市场交易；第三板块是生态治理，主要解决资产上链，版权确权。
+​	With the coordinated three sections, JIAOE can finally realize ecological closed loop within the platform. After a certain time of growth, the platform will be eventually transferred into one with a high autonomy by all participants.
 
-​	JIAOE 通过三大板块互相协同，最终可以实现平台内生态闭环，在成长期后，最终会转由社区自治。
+## 3. Trading Market
 
-## 3. 交易市场
+​	One of the core problems in the NFT market is inefficient liquidity. The reason for poor liquidity lies in the lack of an effective value discovery mechanism and an efficient trading market. Poor liquidity makes it difficult for ordinary people to participate in transactions in the NFT market.
 
-​	NFT 市场核心的问题之一是流动性低效。流动性差的原因在于，缺乏有效的价值发现机制，与高效的交易市场。流动性差导致普通人很难参与到 NFT 市场的交易中。
+### 3.1 Fragmentation 
+​	JIAOE allows anyone or organizations to create or introduce NFT and the platform will automatically generate a token contract. The creator controls NFT fragmentation granularity through the total quantity and the initial unit price of the token and finally realizes the fragmentation of their ownership.
 
-### 3.1 碎片化
+​	Token fragmentation reduces barriers to entry and any investors can gain benefits by selling and buying part of the ownership.
 
-​	JIAOE 允许任何人或组织铸造或引入 NFT，平台将会自动生成一个代币合约。铸造者通过代币总量和代币初始单价控制 NFT 碎片化粒度，最终实现其所有权碎片化。
+### 3.2 Value Discovery
+​	JIAOE fragmentation lowers market access threshold and in the meantime various value discovery mechanisms are offered in the platform to assist the NFT owners to set a reasonable and acceptable market price. To achieve this goal, NFT owners can choose their own pre-sale requirements and strategies when creating. The pre-sale requirements mainly include whether KYC certification, whitelisting etc. are needed or not and the pre-sale strategies mainly cover fixed price crowsale, English auction, Dutch auctions, and hybrid auctions (LBP).
 
-​	代币碎片化降低了市场的准入门槛，任何投资者都可以通过卖买部分所有权获取市场收益。
+​	In addition, JIAOE will develop more platform-specific strategies involving value discovery, and there will even be financial derivatives based on NFT fragments in the future.
 
-### 3.2 价值发现
+### 3.3 Ownership Exclusive
+​	DAO is adopted by JIAOE to realize NFT governance. The governance form takes that different NFT value corresponds to different voting rights. Once NFT achieves value division, its corresponding project governance authority will also be divided accordingly.
 
-​	JIAOE  碎片化降低市场准入门槛，同时平台也提供了多种价值发现机制帮助 NFT 所有者定位到合理的市场认同价。为了实现该目标，NFT 所有者可以在铸造时自行选择预售要求和策略。预售要求主要包括是否需要 KYC 认证、白名单等；预售策略主要包括定价拍卖，英格兰拍卖，荷兰拍卖以及混合拍卖(LBP)。
+​	Users with a certain percentage of NFT fragments can offer to purchase the remaining token to buy out the complete NFT assets. The offeror initiates an acquisition price higher than the market price and stakes the assets for acquisition. But the offer is not allowed to be withdrew within the designated acquisition period ruled by the platform.
 
-​	此外，JIAOE 将会围绕价值发现开发出更多，更具平台特色的策略，未来甚至还会有基于 NFT 碎片的金融衍生品。
+​	The offeree votes within the acquisition period and when the percentage of concurring votes is greater than a certain value, the acquisition will be accomplished. The staked assets will be transferred to the acquiree and then the NFT fragment token will be destroyed. Finally, the ownership is transferred to the offeror .
 
-### 3.3 买断合成
+## 4. Decentralized Exchange
+​	JIAOE will always start with decreasing circulation costs of market makers and secondary market and increasing fund utilization rate to further lower the market access threshold.
 
-​	JIAOE 采用 DAO 实现 NFT 的治理。 治理形式采用 NFT 价值对应不同的投票权。当 NFT 实现价值拆分后 ，其对应的项目治理权限亦获得相应拆分。
+### 4.1 Market-Making with a Single Currency
+​	The single-currency market-making model in JIAOE imitates how human market makers  place orders and distribute funds around the expected market price to achieve higher liquidity and capital utilization.
 
-​	持有一定比例的 NFT 碎片的用户可以发起邀约收购剩余代币，以买断完整的 NFT 资产。邀约人发起一个高于市场价的收购价并抵押用于收购的资产，在平台指定收购期限内不允撤回。
+## 5. Ecological Governance
+​	Any NFT value is supported by values from real-life, and then the anonymity in the blockchain overturns this connection, resulting in a complicated yet mixed NFT market.
 
-​	被邀约人在收购期限内进行投票，同意票比例大于一定值时，则完成收购。抵押资产则转移给被收购人，NFT 碎片代币则被销毁， 所有权转移给邀约人。
+​	These scenarios in JIAOE are simplified with a guarantee model. After all, guarantee is a game between risks and returns. The guarantor takes advantage of information gap to gain risk-free profits and the guaranteed NFT can realize decentralized mapping and obtain credibility assurance.
 
-## 4. 去中心化交易所
+​	Goat Token is a token that realizes the entire ecological governance and used to allocate various resources in the network. Anyone can achieve benefits from the network and for sure the benefit is proportional to the amount of work completed and the quantity of token staked.
 
-​	JIAOE 将始终以降低做市商和二级市场流通成本以及提高资金利用率为出发点，更进一步降低市场准入门槛。
+### 5.1 Participation Role 
+- Creator
+  - The creator is NFT producer in JIAOE ecosystem and they can obtain direct benefits by inventing NFTs
 
-### 4.1 单币做市
+- Certifier
+  - The certifiers are the professionals or institutions in the NFT ecosystem, guaranteeing NFT
+  - Serving this role by mortgaging a certain quantity of platform token
+  - The more the platform token staked, the more reliable the certifier and higher credibility of NFT is 
+  - The certifier can achieve network rewards through NFT guarantee
+  - In case of a false guarantee by the certifier, the staked Token will be possibly confiscated
+  - In the early period, the platform will invite capable organizations to be the certifier through signing and in the later period, the certifier will be determined independently by the market 
 
-​	JIAOE 的单币做市模型模仿人类挂单的做市商行为，将资金分布在市场预期价格附近，从而可以获得更高的流动性和资金利用率。
+- Delegator
+  - The delegator can delegate the platform token to a trusted certifier for a joint guarantee and share network revenue
+
+- Supervisor
+  - The supervisor can obtain benefits by providing valid evidence to accuse the certifier
+  - After accusation by the supervisor, DAO court process will be initiated and all the owners shall be in charge
+
+- Consumers
+  - Any consumers of the Token
+
+###  5.2 Functions of Token
+
+- Stake
+  - Stake Token to be a certifier
+
+- Delegation  
+  - Delegation to the certifier will increase the liability of the certifier
+
+- Consumption
+  - The consumption of deflation mechanism on the platform
+
+- Community governance
+  - Only members with Token can vote and run for election 
+
+### 5.3 Inflation/Disposal 
+​	Goat Token will be inflated at a rate of 1% every year and the later inflation rate will be managed through community voting. Part of the network transaction fee will go to the rebate pool and the rest will be disposed. Service charge from the certifier and the delegator, penalty fees, and unclaimed reward fees will also be disposed.
+
+### 5.4 Rewards and Punishment System
+​	The Token staked by the certifier in the network have an unlock time. If the certifier do evil during this period and provide consumers with wrong instructions, their Token may be confiscated and disposed.
+
+​	There is no risk for the delegators’ Token, but to reduce the delegators’ motivation that is not conducive to network development, the delegator has to pay a certain price.
+
+​	To encourage stakes, the Token will be inflated at a certain rate every year and inflationary Token will be mainly used to reward certifiers and delegators. The reward is proportional to the amount of work completed and the quantity of staked token. Meanwhile, the supervisor can also obtain rewards from the platform by providing valid evidence to accuse the certifier.
+
+​	Besides inflation rewards, JIAOE also has a rebate pool which will reward based on the contribution value of all network participants. The rebate pool is mainly derived from network transaction fees.
+
+## 6. Multichain
+
+​	In the decentralized world, one chain should not rule everything. The decentralized world should be diversified and public blockchains such as Polkadot, Heco, BSC, and Conflux are emerging. JIAOE will actively explore and figure out distincts of each public blockchain and take well advantages of different public blockchains to promote the prosperity of NFT market as well as the ecoeyestem. 
+
+### 6.1 Ethereum
+
+​	The Ethereum ecosystem is the most developed and most decentralized ecosystem till now. JIAOE will choose to debut the project on the Ethereum network.
+
+​	At present, Ethereum is often faced with network congestion and high Gas fees, thus the platform will eventually choose to be connected to the Layer 2 side chain for resolution. Nevertheless, this is a short-term choice that has to be made.
+
+​	In terms of safety and decentralization degree, Layer2 side chain is uncomparable to that of Ethereum. Once Ethereum EI0-1559 proposal or Ethereum 2.0 can fundamentally solve this problem, side chain solution will be abandoned. 
+
+### 6.2 Polkadot
+​	Polkadot is currently the fastest growing and most promising ecology. JIAOE will build a completely decentralized NFT vertical public blockchain on Polkadot's parallel chain according to the product design. Meanwhile, JIAOE public blockchain will be connected to Ethereum network to realize free flow of assets across the chain.
+
+## 7. Platform Token
+Total quantity of platform token is 1, 000, 000, 000 and primary circulation is 20%.
+
+|            | Share |
+| ---------- | ----- |
+| Team       | 16%   |
+| Investment | 15%   |
+| Operation  | 20%   |
+| Community  | 49%   |
+
+## 8. RoadMap
+
+JIAOE RoadMap Planning
+
+- 2021 Q1 - Project Launching 
+  - Project Launching
+  - Creation and fragmentation
 
 
-## 5. 生态治理
+- 2021 Q2 - Main Network On Line 
+  - Decentralization Exchange
+  - Main Network of Ethereum On Line and Toke issuing 
+  - Series-A investment
 
-​	任何 NFT 的价值都是有现实生活的价值支撑的，然后区块链的匿名特征，打破了这种支撑，导致 NFT 市场鱼龙混杂，鱼目混珠。
+- 2021 Q3 Operation
+  - Launch the development of Polkadot and public chain 
+  - Investment Rounds Completion 
+  - Exchange Preparation 
 
-​	JIAOE 通过担保模型来简化这些场景。担保结底是风险与收益的博弈，担保方利用信息差，赚取无风险利润；被担保的 NFT 则实现链上映射和获得可信度保障。
+- 2021 Q4  Ecology Construction
+  - Ecology Construction
+  - Private and Public Placement 
 
-​	Goat Token 则是实现整个生态治理的通证，⽤于调配网络中的各种资源。任何人都可以在网络中获得收益，收益与其完成的工作量和质押的代币数成正比。
+- 2022 Q1  - Polkadot Test
+  - Launch Polkadot Test Net
 
-### 5.1 参与角色
-
-- 创作人
-  - 创作人是 JIAOE 生态中 NFT 的生产者 ，他们通过创作 NFT 来获取直接收益
-- 验证人
-  - 验证人是 NF T生态中的专业人员或机构，起到担保 NFT 作用
-  - 通过质押一定量的平台币，担任此角色
-  - 质押的平台币越多，验证人可信度越高，担保 NFT 可信度越高
-  - 验证人可以通过对 NFT 担保，从而获得网络奖励
-  - 验证人如果提供伪担保，其质押的Token则可能被罚没
-  - 平台前期通过签约，邀请有能力的组织机构担任验证人；后期则有市场自由决定
-- 委托人
-  - 委托人可以委托平台币给信任的验证人，起到共同担保，共享网络收益的作用
-- 检举人
-  - 检举人通过提供有效证据检举验证人，从而获得收益
-  - 检举人检举后，则进入 DAO 法庭流程，由社区审理
-- 消费者
-  - 任何代币的消耗者
-
-### 5.2 代币功能
-
-- 质押 
-  - 质押 Token 担任验证人角色
-- 委托
-  - 委托给验证人，则加验证人的可信度
-- 消耗
-  - 平台内通缩机制消耗
-- 社区管理交易
-  - 持有 Token 的成员才可以进行投票和竞选等
-
-### 5.3 通胀/销毁
-
-​	Goat Token 每年会按照 1% 的比例进行通胀，后期通胀比例则有社区投票管理；网络交易的手续费，一部分进入返利池，剩余部分则全部销毁；验证人和委托人所产⽣的⼿续费，惩罚费用，无人认领的奖励费用也将会被销毁。
-
-### 5.4 奖惩机制
-
-​	验证人质押在网络中的 Token 存在解冻期，如果期间验证人作恶，为消费者提供错误的指引，那么他们的 Token 可能会被罚没并销毁。
-
-​	委托人的 Token 则不存在风险，但是为了减少委托人做出不利于网络发展的动机，委托人要付出⼀定代价。
-
-​	为了鼓励质押，Token 每年都会有⼀定的通胀比例，而通胀的Token主要用来奖励验证人和委托人。奖励与其完成的工作量和质押的代币数成正比。同时检举人也可以通过提供有效的证据来检举验证人来获取平台奖励。
-
-​	除了通胀奖励，JIAOE 还有⼀个按照所有网络参与者的贡献值来获得奖励的返利池，返利池主要来源于网络交易的手续费。
-
-## 6. 多链
-
-​	去中心化世界中不应该由一条链统治一切，去中心化世界应该是多元化发展的，Polkadot， Heco，BSC，Conflux 等公链正在崛起。JIAOE 将会积极探索和挖掘各种公链的特性，利用不同公链的优势促进 NFT 市场的繁荣。
-
-### 6.1 以太坊
-
-​	以太坊生态是目前发展最为完善的，去中心化程度最高的生态，JIAOE 将会选择以太坊网络上进行项目的首发。
-
-​	目前以太坊经常面临网络拥堵和高额的 Gas 费用，为解决该问题平台最终会选择接入 Layer2 侧链来解决当前的问题，不过这是短期的，不得不做的选择。
-
-​	以太坊在安全性和去中心化程度上是 Layer2 侧链无法比拟的，如果以太坊 EIP-1559 提案或以太坊2.0能从根本上解决该问题，则平台会抛弃侧链方案。
-
-### 6.2 波卡
-
-​	波卡是目前发展最快，最有前景的生态，JIAOE 将在波卡的平行链上按照产品设想构建出完全去中心化的 NFT 垂直公链。同时 JIAOE 公链将会与以太坊网络打通，实现资产跨链的自由流动。
-
-## 7. 平台币 
-
-平台币总量 1<sub>,</sub> 000<sub>,</sub> 000<sub>,</sub> 000，初期流通 20%。
-
-|      | 份额 |
-| ---- | ---- |
-| 团队 | 16%  |
-| 投资 | 15%  |
-| 运营 | 20%  |
-| 社区 | 49%  |
-
-## 8. 路线
-
-JIAOE 路线规划
-
-- 2021 Q1 - 项目启动
-  - 项目启动
-  - 铸造，碎片化
-- 2021 Q2 - 主网上线
-  - 去中心化交易所
-  - 以太网的主网上线，发行代币
-  - A 轮投资
-- 2021 Q3 - 运营
-  - 启动波卡链公链开发
-  - 完成投资轮
-  - 上所筹备
-- 2021 Q4 - 生态建设
-  - 生态建设
-  - 私募， 公募
-  - 上所
-- 2022 Q1 - 波卡链测试
-  - 启动波卡测试网
+ 
